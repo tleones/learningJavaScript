@@ -9,8 +9,14 @@ Este repositório contém os exercícios práticos realizados como parte do curs
     - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 01.
     - `README.md`: Explicação dos exercícios e suas soluções.
 
-## ✅ Atualizações
-Última atualização dos exercícios: **27/12/2023**
+- **Capítulo 02 - Condicionais e concatenação:** Contém a primeira lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Arquivo contendo os exercícios do capítulo 02.
+    - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 02.
+    - `README.md`: Explicação dos exercícios e suas soluções.
+
+## ✅ Lista de atualizações
+2.0 **27/12/2023** 
+1.0 **27/12/2023**
 
 ## 🚀 Objetivo
 Este repositório serve como um espaço para praticar e aprimorar habilidades de lógica de programação usando JavaScript, além de exercitar conceitos de versionamento usando o Git e o GitHub.

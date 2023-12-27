@@ -15,7 +15,7 @@ Este repositório contém os exercícios práticos realizados como parte do curs
     - `README.md`: Explicação dos exercícios e suas soluções.
 
 ## ✅ Lista de atualizações
-2.0 **27/12/2023** 
+2.0 **27/12/2023**  
 1.0 **27/12/2023**
 
 ## 🚀 Objetivo

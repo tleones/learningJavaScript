@@ -5,7 +5,8 @@ Este repositório contém os exercícios práticos realizados como parte do curs
 ## 📂 Estrutura do Repositório
 
 - **Capítulo 01 - Iniciando com JavaScript:** Contém a primeira lista de exercícios.
-    - `exercicios.js`: Arquivo contendo a solução dos exercícios do capítulo 01.
+    - `exerciciosNaoRespondidos.js`: Arquivo contendo os exercícios do capítulo 01.
+    - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 01.
     - `README.md`: Explicação dos exercícios e suas soluções.
 
 ## ✅ Atualizações

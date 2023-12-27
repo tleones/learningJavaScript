@@ -1,4 +1,4 @@
-// Desafios
+// Exercícios do dia 27/12/2023
 // 1. Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 alert('Boas vindas ao nosso site!');
 

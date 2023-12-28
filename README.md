@@ -21,7 +21,9 @@ Este repositório contém os exercícios práticos realizados como parte do curs
     - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 02.
     - `README.md`: Explicação dos exercícios e suas soluções.
 
-## ✅ Lista de atualizações
+## ✅ Lista de atualizações  
+
+3.0 **28/12/2023**  
 2.0 **27/12/2023**  
 1.0 **27/12/2023**
 

@@ -4,12 +4,19 @@ Este repositório contém os exercícios práticos realizados como parte do curs
 
 ## 📂 Estrutura do Repositório
 
+- **Exercícios divididos por capítulos:** Contém as pastas com todos os exercícios.
+
 - **Capítulo 01 - Iniciando com JavaScript:** Contém a primeira lista de exercícios.
     - `exerciciosNaoRespondidos.js`: Arquivo contendo os exercícios do capítulo 01.
     - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 01.
     - `README.md`: Explicação dos exercícios e suas soluções.
 
-- **Capítulo 02 - Condicionais e concatenação:** Contém a primeira lista de exercícios.
+- **Capítulo 02 - Condicionais e concatenação:** Contém a segunda lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Arquivo contendo os exercícios do capítulo 02.
+    - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 02.
+    - `README.md`: Explicação dos exercícios e suas soluções.
+
+- **Capítulo 03 - Loops e tentativas:** Contém a terceira lista de exercícios.
     - `exerciciosNaoRespondidos.js`: Arquivo contendo os exercícios do capítulo 02.
     - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 02.
     - `README.md`: Explicação dos exercícios e suas soluções.

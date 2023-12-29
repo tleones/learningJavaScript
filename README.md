@@ -2,27 +2,30 @@
 
 Este repositório contém os exercícios práticos realizados como parte do curso [Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript) da [Alura](https://www.alura.com.br/), ministrado pelos professores [Monica Hillman](https://github.com/MonicaHillman) e [Guilherme Lima](https://github.com/guilhermeonrails).
 
-## 📂 Estrutura do Repositório
+# 📂 Estrutura do Repositório
 
-- **Exercícios divididos por capítulos:** Contém as pastas com todos os exercícios.
+- **Exercícios:** Contém as pastas com todos os exercícios divididos por capítulos.
+  - **Capítulo 01 - Iniciando com JavaScript:** Primeira lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 02 - Condicionais e concatenação:** Segunda lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 03 - Loops e tentativas:** Terceira lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
+    - `README.md`: Explicações e soluções dos exercícios.
 
-- **Capítulo 01 - Iniciando com JavaScript:** Contém a primeira lista de exercícios.
-    - `exerciciosNaoRespondidos.js`: Arquivo contendo os exercícios do capítulo 01.
-    - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 01.
-    - `README.md`: Explicação dos exercícios e suas soluções.
+- **Projetos:** Contém projetos práticos de estudo.
+  - **[Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript):** Primeiro projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).
 
-- **Capítulo 02 - Condicionais e concatenação:** Contém a segunda lista de exercícios.
-    - `exerciciosNaoRespondidos.js`: Arquivo contendo os exercícios do capítulo 02.
-    - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 02.
-    - `README.md`: Explicação dos exercícios e suas soluções.
-
-- **Capítulo 03 - Loops e tentativas:** Contém a terceira lista de exercícios.
-    - `exerciciosNaoRespondidos.js`: Arquivo contendo os exercícios do capítulo 02.
-    - `exerciciosRespondidos.js`: Arquivo contendo a solução dos exercícios do capítulo 02.
-    - `README.md`: Explicação dos exercícios e suas soluções.
+- **README.md:** Documentação geral do repositório.
 
 ## ✅ Lista de atualizações  
 
+4.0 **29/12/2023**  
 3.0 **28/12/2023**  
 2.0 **27/12/2023**  
 1.0 **27/12/2023**

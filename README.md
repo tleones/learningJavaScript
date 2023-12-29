@@ -20,6 +20,12 @@ Este repositório contém os exercícios práticos realizados como parte do curs
 
 - **Projetos:** Contém projetos práticos de estudo.
   - **[Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript):** Primeiro projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).
+  - **[Lógica de programação: explore funções e listas](https://cursos.alura.com.br/course/logica-programacao-funcoes-listas):** Segundo projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).
+  - **[Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios):** Conjunto de desafios práticos da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/). Desafios:
+    - **AluGames** 
+    - **Amigo Secreto**
+    - **Carrinho de Compras**
+    - **Ingresso Online**
 
 - **README.md:** Documentação geral do repositório.
 

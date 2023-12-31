@@ -17,6 +17,10 @@ Este repositório contém os exercícios práticos realizados como parte do curs
     - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
     - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
     - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 04 - Boas práticas de programação:** Quarta lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
+    - `README.md`: Explicações e soluções dos exercícios.
 
 - **Projetos:** Contém projetos práticos de estudo.
   - **[Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript):** Primeiro projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).
@@ -31,6 +35,8 @@ Este repositório contém os exercícios práticos realizados como parte do curs
 
 ## ✅ Lista de atualizações  
 
+6.0 **31/12/2023**  
+5.0 **30/12/2023**  
 4.0 **29/12/2023**  
 3.0 **28/12/2023**  
 2.0 **27/12/2023**  

@@ -33,15 +33,6 @@ Este repositório contém os exercícios práticos realizados como parte do curs
 
 - **README.md:** Documentação geral do repositório.
 
-## ✅ Lista de atualizações  
-
-6.0 **31/12/2023**  
-5.0 **30/12/2023**  
-4.0 **29/12/2023**  
-3.0 **28/12/2023**  
-2.0 **27/12/2023**  
-1.0 **27/12/2023**
-
 ## 🚀 Objetivo
 Este repositório serve como um espaço para praticar e aprimorar habilidades de lógica de programação usando JavaScript, além de exercitar conceitos de versionamento usando o Git e o GitHub.
 
@@ -56,6 +47,27 @@ Após completar os exercícios de cada capítulo, siga estes passos para subir s
 ## 📝 Contribuindo
 Sinta-se à vontade para contribuir com melhorias nas soluções existentes ou adicionando novos exercícios!
 
----
-
 **Nota:** Certifique-se de não distribuir respostas diretamente das questões dos cursos para respeitar as políticas de honra do curso.
+
+## ✅ Lista de atualizações  
+
+- **01/01/2024:**  
+    - Atualização com exercícios, soluções e readme explicativo do capítulo.
+    - Pequenas atualizações no README.
+- **31/12/2023:**  
+    - Iniciando construção de pastas e resolução de desafios do quarto capítulo.
+- **30/12/2023:**  
+    - Adição de projetos esqueletos da terceira e segunda etapas do curso.
+    - Reorganização do readme e remoção de arquivos desnecessários.
+- **29/12/2023:**  
+    - Refatoração da estrutura de pastas e arquivos.
+    - Adição de projetos esqueletos e ajustes no README.
+- **28/12/2023:**  
+    - Reorganização de pastas.
+    - Adição de estrutura do primeiro projeto da formação JS da Alura.
+- **27/12/2023:**  
+    - Adição de resoluções e estrutura de pastas do terceiro capítulo.
+    - Atualização e reorganização do readme com detalhes de capítulos.
+    - Adição de exercícios do primeiro capítulo.
+- **Inicialização (27/12/2023):**  
+    - Commit inicial com a estrutura inicial do repositório e dos primeiros exercícios.

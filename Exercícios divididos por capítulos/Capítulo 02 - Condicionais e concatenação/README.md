@@ -1,4 +1,4 @@
-# 📚 Exercícios do Dia 27/12/2023 - Introdução ao JavaScript Parte 02
+# 📚 Exercícios do capítulo Condicionais e concatenação
 
 Estes exercícios visam desenvolver habilidades em JavaScript, envolvendo desde a criação de jogos até a manipulação de variáveis e estruturas condicionais.
 

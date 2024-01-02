@@ -1,4 +1,4 @@
-# 📚 Exercícios de Lógica de Programação em JavaScript
+# 📚 Exercícios do capítulo Loops e tentativas
 
 Aqui estão uma série de exercícios de JavaScript para consolidar seus conhecimentos e habilidades. Prepare-se para mergulhar em loops, condicionais e contadores!
 

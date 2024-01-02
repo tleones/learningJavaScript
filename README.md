@@ -5,27 +5,38 @@ Este repositório contém os exercícios práticos realizados como parte do curs
 # 📂 Estrutura do Repositório
 
 - **Exercícios:** Contém as pastas com todos os exercícios divididos por capítulos.
-  - **Capítulo 01 - Iniciando com JavaScript:** Primeira lista de exercícios.
-    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
-    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
-    - `README.md`: Explicações e soluções dos exercícios.
-  - **Capítulo 02 - Condicionais e concatenação:** Segunda lista de exercícios.
-    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
-    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
-    - `README.md`: Explicações e soluções dos exercícios.
-  - **Capítulo 03 - Loops e tentativas:** Terceira lista de exercícios.
-    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
-    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
-    - `README.md`: Explicações e soluções dos exercícios.
-  - **Capítulo 04 - Boas práticas de programação:** Quarta lista de exercícios.
-    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
-    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
-    - `README.md`: Explicações e soluções dos exercícios.
+  - **1️⃣ Lógica de programação mergulhe em programação com JavaScript:**
+    - **Capítulo 01 - Iniciando com JavaScript:** Primeira lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
+      - `README.md`: Explicações e soluções dos exercícios.
+    - **Capítulo 02 - Condicionais e concatenação:** Segunda lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
+      - `README.md`: Explicações e soluções dos exercícios.
+    - **Capítulo 03 - Loops e tentativas:** Terceira lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
+      - `README.md`: Explicações e soluções dos exercícios.
+    - **Capítulo 04 - Boas práticas de programação:** Quarta lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
+      - `README.md`: Explicações e soluções dos exercícios.
+
+  - **2️⃣ Lógica de programação explore funções e listas:**  
+
+  - **3️⃣ Git e GitHub compartilhando e colaborando em projetos:**  
+
+  - **4️⃣ Lógica de programação praticando com desafios:**  
 
 - **Projetos:** Contém projetos práticos de estudo.
-  - **[Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript):** Primeiro projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).
-  - **[Lógica de programação: explore funções e listas](https://cursos.alura.com.br/course/logica-programacao-funcoes-listas):** Segundo projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).
-  - **[Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios):** Conjunto de desafios práticos da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/). Desafios:
+  - **[1. Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript):** Primeiro projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).  
+
+  - **[2. Lógica de programação: explore funções e listas](https://cursos.alura.com.br/course/logica-programacao-funcoes-listas):** Segundo projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).  
+
+  - **[3. Git e GitHub compartilhando e colaborando em projetos](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos):** Etapa de foco em versionamento da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/). Desafios:
+
+  - **[4. Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios):** Conjunto de desafios práticos da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/). Desafios:
     - **AluGames** 
     - **Amigo Secreto**
     - **Carrinho de Compras**

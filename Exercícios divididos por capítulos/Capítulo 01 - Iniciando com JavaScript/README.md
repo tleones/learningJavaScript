@@ -1,4 +1,4 @@
-# 📚 Exercícios do Dia 27/12/2023 - Introdução ao JavaScript
+# 📚 Exercícios do capítulo Iniciando com JavaScript
 
 Este conjunto de exercícios foi realizado no dia 27/12/2023 como parte do curso de JavaScript, explorando conceitos iniciais da linguagem.
 

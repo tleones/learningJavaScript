@@ -1,6 +1,6 @@
 # 🏋️ Exercícios Práticos de Lógica de Programação e Versionamento
 
-Este repositório contém os exercícios práticos realizados como parte do curso [Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript) da [Alura](https://www.alura.com.br/), ministrado pelos professores [Monica Hillman](https://github.com/MonicaHillman) e [Guilherme Lima](https://github.com/guilhermeonrails).
+Este repositório contém os exercícios práticos realizados como parte da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/), ministrada pelos professores [Monica Hillman](https://github.com/MonicaHillman) e [Guilherme Lima](https://github.com/guilhermeonrails).
 
 # 📂 Estrutura do Repositório
 

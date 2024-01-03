@@ -5,45 +5,46 @@ Este repositório contém os exercícios práticos realizados como parte da form
 # 📂 Estrutura do Repositório
 
 - **Exercícios:** Contém as pastas com todos os exercícios divididos por capítulos.
-  - **1️⃣ Lógica de programação mergulhe em programação com JavaScript:**
-    - **Capítulo 01 - Iniciando com JavaScript:** Primeira lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
-      - `README.md`: Explicações e soluções dos exercícios.
-    - **Capítulo 02 - Condicionais e concatenação:** Segunda lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
-      - `README.md`: Explicações e soluções dos exercícios.
-    - **Capítulo 03 - Loops e tentativas:** Terceira lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
-      - `README.md`: Explicações e soluções dos exercícios.
-    - **Capítulo 04 - Boas práticas de programação:** Quarta lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
-      - `README.md`: Explicações e soluções dos exercícios.
+- **1️⃣ Lógica de programação mergulhe em programação com JavaScript:**
+  - **Capítulo 01 - Iniciando com JavaScript:** Primeira lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 02 - Condicionais e concatenação:** Segunda lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 03 - Loops e tentativas:** Terceira lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 04 - Boas práticas de programação:** Quarta lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
+    - `README.md`: Explicações e soluções dos exercícios.
 
-  - **2️⃣ Lógica de programação explore funções e listas:**  
-      - **Capítulo 01 - Interagindo com HTML:** Primeira lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
-      - `README.md`: Explicações e soluções dos exercícios.
-    - **Capítulo 02 - Funções:** Segunda lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
-      - `README.md`: Explicações e soluções dos exercícios.
-    - **Capítulo 03 - Reiniciando o jogo:** Terceira lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
-      - `README.md`: Explicações e soluções dos exercícios.
-    - **Capítulo 04 - Listas:** Quarta lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
-      - `README.md`: Explicações e soluções dos exercícios.
-    - **Capítulo 05 - Publicando o projeto:** Quinta lista de exercícios.
-      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
-      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
-      - `README.md`: Explicações e soluções dos exercícios.
+- **2️⃣ Lógica de programação explore funções e listas:**
+  - **Capítulo 01 - Interagindo com HTML:** Primeira lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 02 - Funções:** Segunda lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 03 - Reiniciando o jogo:** Terceira lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 04 - Listas:** Quarta lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
+    - `README.md`: Explicações e soluções dos exercícios.
+  - **Capítulo 05 - Publicando o projeto:** Quinta lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 05.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 05.
+    - `README.md`: Explicações e soluções dos exercícios.
+
       
 
   - **3️⃣ Git e GitHub compartilhando e colaborando em projetos:**  

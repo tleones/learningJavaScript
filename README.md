@@ -24,6 +24,27 @@ Este repositório contém os exercícios práticos realizados como parte da form
       - `README.md`: Explicações e soluções dos exercícios.
 
   - **2️⃣ Lógica de programação explore funções e listas:**  
+      - **Capítulo 01 - Interagindo com HTML:** Primeira lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
+      - `README.md`: Explicações e soluções dos exercícios.
+    - **Capítulo 02 - Funções:** Segunda lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
+      - `README.md`: Explicações e soluções dos exercícios.
+    - **Capítulo 03 - Reiniciando o jogo:** Terceira lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
+      - `README.md`: Explicações e soluções dos exercícios.
+    - **Capítulo 04 - Listas:** Quarta lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
+      - `README.md`: Explicações e soluções dos exercícios.
+    - **Capítulo 05 - Publicando o projeto:** Quinta lista de exercícios.
+      - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
+      - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
+      - `README.md`: Explicações e soluções dos exercícios.
+      
 
   - **3️⃣ Git e GitHub compartilhando e colaborando em projetos:**  
 
@@ -60,25 +81,32 @@ Sinta-se à vontade para contribuir com melhorias nas soluções existentes ou a
 
 **Nota:** Certifique-se de não distribuir respostas diretamente das questões dos cursos para respeitar as políticas de honra do curso.
 
-## ✅ Lista de atualizações  
+## ✅ Lista de Atualizações
 
+- **02/01/2024:**  
+    - Resolução da primeira lista de exercícios.
+    - Adição de novos exercícios.
+    - Reorganização do repositório da formação.
+    - Renomeação e atualização do README.
 - **01/01/2024:**  
     - Atualização com exercícios, soluções e readme explicativo do capítulo.
-    - Pequenas atualizações no README.
+    - Reformulação com changelog organizado.
 - **31/12/2023:**  
     - Iniciando construção de pastas e resolução de desafios do quarto capítulo.
-- **30/12/2023:**  
-    - Adição de projetos esqueletos da terceira e segunda etapas do curso.
-    - Reorganização do readme e remoção de arquivos desnecessários.
+    - Outras atualizações menores no README.
 - **29/12/2023:**  
-    - Refatoração da estrutura de pastas e arquivos.
-    - Adição de projetos esqueletos e ajustes no README.
+    - Atualização com esqueleto de projetos pendentes.
+    - Adição de estrutura de projetos da segunda e terceira etapas do curso.
+    - Reorganização do readme com nova estrutura de pastas.
+    - Remoção de arquivos JavaScript desnecessários.
 - **28/12/2023:**  
-    - Reorganização de pastas.
+    - Reorganização de pasta de projetos.
     - Adição de estrutura do primeiro projeto da formação JS da Alura.
+    - Outras atualizações no README.
 - **27/12/2023:**  
+    - Atualização do readme com detalhes dos capítulos anteriores.
     - Adição de resoluções e estrutura de pastas do terceiro capítulo.
-    - Atualização e reorganização do readme com detalhes de capítulos.
     - Adição de exercícios do primeiro capítulo.
 - **Inicialização (27/12/2023):**  
     - Commit inicial com a estrutura inicial do repositório e dos primeiros exercícios.
+

@@ -107,4 +107,11 @@ Date:   Thu Jan 4 00:05:17 2024 -0300
 
 78. Utilize o comando git status
 
+tleones@SPW90V8JH3 MINGW64 ~/learningJavaScript/Exercícios/3. Git e GitHub compartilhando e colaborando em projetos/1. Compartilhando projetos (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
 #############################################

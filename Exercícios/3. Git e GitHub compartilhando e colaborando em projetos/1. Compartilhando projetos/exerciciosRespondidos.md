@@ -1,6 +1,6 @@
 #############################################
 
-Você está desenvolvendo um projeto para um Supermercado Online. Após desenvolver algumas funcionalidades, testar e fazer ajustes, você percebeu que precisa compartilhar o projeto com sua equipe. Para isso, você decide utilizar o GitHub. No momento, o código do projeto existe apenas no seu computador e você deseja conectá-lo a um repositório remoto criado no GitHub.
+67. Você está desenvolvendo um projeto para um Supermercado Online. Após desenvolver algumas funcionalidades, testar e fazer ajustes, você percebeu que precisa compartilhar o projeto com sua equipe. Para isso, você decide utilizar o GitHub. No momento, o código do projeto existe apenas no seu computador e você deseja conectá-lo a um repositório remoto criado no GitHub.
 
 Qual comando você poderia utilizar para conectar seu projeto local do Git com o repositório remoto no GitHub?
 

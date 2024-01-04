@@ -84,30 +84,13 @@ Sinta-se à vontade para contribuir com melhorias nas soluções existentes ou a
 
 ## ✅ Lista de Atualizações
 
+- **04/01/2024:** 
+- **03/01/2024:** 
 - **02/01/2024:**  
-    - Resolução da primeira lista de exercícios.
-    - Adição de novos exercícios.
-    - Reorganização do repositório da formação.
-    - Renomeação e atualização do README.
 - **01/01/2024:**  
-    - Atualização com exercícios, soluções e readme explicativo do capítulo.
-    - Reformulação com changelog organizado.
 - **31/12/2023:**  
-    - Iniciando construção de pastas e resolução de desafios do quarto capítulo.
-    - Outras atualizações menores no README.
 - **29/12/2023:**  
-    - Atualização com esqueleto de projetos pendentes.
-    - Adição de estrutura de projetos da segunda e terceira etapas do curso.
-    - Reorganização do readme com nova estrutura de pastas.
-    - Remoção de arquivos JavaScript desnecessários.
 - **28/12/2023:**  
-    - Reorganização de pasta de projetos.
-    - Adição de estrutura do primeiro projeto da formação JS da Alura.
-    - Outras atualizações no README.
 - **27/12/2023:**  
-    - Atualização do readme com detalhes dos capítulos anteriores.
-    - Adição de resoluções e estrutura de pastas do terceiro capítulo.
-    - Adição de exercícios do primeiro capítulo.
 - **Inicialização (27/12/2023):**  
-    - Commit inicial com a estrutura inicial do repositório e dos primeiros exercícios.
 

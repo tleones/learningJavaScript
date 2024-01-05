@@ -107,4 +107,10 @@ Date:   Thu Jan 4 00:05:17 2024 -0300
 
 78. Utilize o comando git status
 
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
 #############################################

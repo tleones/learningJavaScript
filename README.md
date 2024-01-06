@@ -49,6 +49,18 @@ Este repositório contém os exercícios práticos realizados como parte da form
   - **Capítulo 02 - Colaborando em projetos:** Segunda lista de exercícios.
     - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 02.
     - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 02.
+    - `README.md`: Explicações dos exercícios.
+  - **Capítulo 03 - Utilizando Git na IDE:** Terceira lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 03.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 03.
+    - `README.md`: Explicações dos exercícios.
+  - **Capítulo 04 - Voltando no tempo:** Quarta lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 04.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
+    - `README.md`: Explicações dos exercícios.
+  - **Capítulo 05 - Mais recursos:** Quinta lista de exercícios.
+    - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 05.
+    - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 05.
     - `README.md`: Explicações dos exercícios. 
 
   - **4️⃣ Lógica de programação praticando com desafios:**  

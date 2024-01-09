@@ -97,8 +97,8 @@ Sinta-se à vontade para contribuir com melhorias nas soluções existentes ou a
 **Nota:** Certifique-se de não distribuir respostas diretamente das questões dos cursos para respeitar as políticas de honra do curso.
 
 ## ✅ Lista de Atualizações
-
-- **07/01/2024:** 
+- **09/01/2024:** 
+- **08/01/2024:** 
 - **06/01/2024:** 
 - **05/01/2024:** 
 - **04/01/2024:** 

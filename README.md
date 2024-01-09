@@ -5,7 +5,7 @@ Este repositório contém os exercícios práticos realizados como parte da form
 # 📂 Estrutura do Repositório
 
 - **Exercícios:** Contém as pastas com todos os exercícios divididos por capítulos.
-- **1️⃣ Lógica de programação mergulhe em programação com JavaScript:**
+- **1️⃣ Mergulhe em programação com JavaScript:**
   - **Capítulo 01 - Iniciando com JavaScript:** Primeira lista de exercícios.
     - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
     - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
@@ -23,7 +23,7 @@ Este repositório contém os exercícios práticos realizados como parte da form
     - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
     - `README.md`: Explicações e soluções dos exercícios.
 
-- **2️⃣ Lógica de programação explore funções e listas:**
+- **2️⃣ Explore funções e listas:**
   - **Capítulo 01 - Interagindo com HTML:** Primeira lista de exercícios.
     - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
     - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
@@ -41,7 +41,7 @@ Este repositório contém os exercícios práticos realizados como parte da form
     - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 04.
     - `README.md`: Explicações e soluções dos exercícios.    
 
-- **3️⃣ Git e GitHub compartilhando e colaborando em projetos:**  
+- **3️⃣ Git e GitHub:**  
   - **Capítulo 01 - Compartilhando projetos:** Primeira lista de exercícios.
     - `exerciciosNaoRespondidos.js`: Exercícios do capítulo 01.
     - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 01.
@@ -63,16 +63,16 @@ Este repositório contém os exercícios práticos realizados como parte da form
     - `exerciciosRespondidos.js`: Soluções dos exercícios do capítulo 05.
     - `README.md`: Explicações dos exercícios. 
 
-  - **4️⃣ Lógica de programação praticando com desafios:**  
+  - **4️⃣ Praticando com desafios:**  
 
 - **Projetos:** Contém projetos práticos de estudo.
-  - **[1. Lógica de Programação: Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript):** Primeiro projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).  
+  - **[1. Mergulhe em Programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript):** Primeiro projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).  
 
-  - **[2. Lógica de programação: explore funções e listas](https://cursos.alura.com.br/course/logica-programacao-funcoes-listas):** Segundo projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).  
+  - **[2. Explore funções e listas](https://cursos.alura.com.br/course/logica-programacao-funcoes-listas):** Segundo projeto prático da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).  
 
-  - **[3. Git e GitHub compartilhando e colaborando em projetos](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos):** Etapa de foco em versionamento da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/). Desafios:
+  - **[3. Git e GitHub](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos):** Etapa de foco em versionamento da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/).
 
-  - **[4. Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios):** Conjunto de desafios práticos da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/). Desafios:
+  - **[4. Praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios):** Conjunto de desafios práticos da formação [Aprenda programação do zero](https://cursos.alura.com.br/formacao-programacao) da [Alura](https://www.alura.com.br/). Desafios:
     - **AluGames** 
     - **Amigo Secreto**
     - **Carrinho de Compras**

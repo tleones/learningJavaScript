@@ -1,0 +1,290 @@
+/* 1. Set the text color to red, for all <p> elements. */
+  <style>
+    p {
+    color: red;
+    }
+  </style>
+
+/* 2. Set the text color to red, for the element with id="para1". */
+  <style>
+    #para1 { 
+        color:red;
+        }
+  </style>
+<body>
+  <h1>This is a heading</h1>
+  <p id="para1">This is a paragraph</p>
+</body>
+
+/* 3. Set the text color to red, for elements with class="colortext". */
+  <style>
+    .colortext {
+      color:red;
+      }
+  </style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p class="colortext">This is a paragraph</p>
+  <p class="colortext">This is a paragraph</p>
+</body>
+
+ /* 4. Set the text color to red, for all <p> and <h1> elements. Group the selectors to minimize code. */
+  <style>
+    p, h1  {
+      color:red;
+    }
+  </style>
+<body>
+  <h1>This is a heading</h1>
+  <h2>This is a smaller heading</h2>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 5. Add an external style sheet with the URL: "mystyle.css". */
+<head>
+  <link href="mystyle.css" rel="stylesheet">
+</head>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 6. Set the page's background color to red. */
+  <style>
+    body {
+      background-colo:red;
+    }
+  </style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 7. Set the page's background color to red, by using an inline style. */
+<body style ="background-color: red">
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 8. Insert the missing parts to make the CSS code correct. */
+<style>
+  p {
+  color:red;
+  }
+</style>
+
+/* 9. Set the background color of the <h1> element to "lightblue". */
+<style>
+  h1 {
+    background-color:lightblue;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 10. Set "paper.gif" as the background image of the page. */
+<style>
+  body {
+  background-image:url("paper.gif");
+}
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 11. Make the background image repeat only vertically. */
+<style>
+  body {
+    background-image: url("img_tree.png");
+    background-repeat:repeat-y;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 12. Specify that the background image should be shown once, in the top right corner. */
+<style>
+  body {
+    background-image: url("img_tree.png");
+    background-repeat:no-repeat;
+    background-position:top right;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 13. Use the correct background property to make the background image NOT scroll with the rest of the page. */
+<style>
+  body {
+    background-image: url("img_tree.png");
+    background-attachment:fixed;
+  }
+</style>
+
+/* 14. Use the border shorthand property to set a "4px", "dotted", "red" border for the <p> elements. */
+<style>
+  p {
+    border:4px dotted red;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 15. Use the correct border property to set the border color to "red". */
+<style>
+  p {
+    border-style:dotted;
+    border-width:4px;
+    border-color:red;
+  }
+</style>
+
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 16. Use the correct border property to set the LEFT border to "dotted". */
+<style>
+  p {
+    border-left-style:dotted;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 17. Use the correct border property to add ROUNDED borders to the <p> elements. */
+<style>
+  p {
+    border:2px solid red;
+    border-radius:5px;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 18. Add a 20 pixels left margin to the <h1> element. */
+<style>
+  h1 {
+    margin-left:20px;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 19. Use the shorthand margin property to add 20 pixels top and bottom margins, and 40 pixels left and right margins, on the <h1> element. */
+<style>
+  h1 {
+    margin:20px 40px;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 20. For the <h1> element, use the shorthand margin property to add these margins:
+left: 10px
+right: 15px
+top: 20px
+bottom: 25px */
+<style>
+  h1 {
+    margin:20px 15px 25px 10px;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 21. Use the margin property to center align the <h1> element. */
+<style>
+  h1 {
+    margin:auto;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 22. Set the top padding of the <h1> element to 30 pixels. */
+<style>
+  h1 {
+  padding-top:30px;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 23. Set the padding of all sides of the <h1> element to 30 pixels. */
+<style>
+  h1 {
+    padding:30px;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 24. Use the shorthand padding property to add 10 pixels left and right padding, and 40 pixels top and bottom padding, on the <h1> element. */
+<style>
+  h1 {
+    padding:40px 10px;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>
+
+/* 25. Set the height of the <h1> element to "100px". */
+<style>
+  h1 {  
+  height: 100px;
+  }
+</style>
+<body>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph</p>
+  <p>This is a paragraph</p>
+</body>

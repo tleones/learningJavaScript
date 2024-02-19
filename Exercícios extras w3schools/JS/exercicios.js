@@ -143,4 +143,25 @@
 // 25. Convert the text into an UPPERCASE text:
 
     let txt = "Hello World!";
-    txt = txt.toUpperCase();
+    txt = txt.toUpperCase()
+
+
+// 26. Crie uma página da web simples com um botão e um texto, e quando o botão for clicado, o texto dentro de um elemento com um ID específico será alterado.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <p id="paragrafo">O botão ainda não foi clicado.</p>
+
+    <button type="button" onclick='document.getElementById("paragrafo").innerHTML = "O botão foi clicado"'>Clique aqui!</button>
+    
+    <button type="button" onclick='document.getElementById("paragrafo").innerHTML = "O botão ainda não foi clicado"'>Resetar!</button>
+</body>
+</html>
+
